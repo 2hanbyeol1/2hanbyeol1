@@ -1,9 +1,10 @@
 ### 이한별
 `next.js` `react` `typescript` `jest` `zustand` `tanstack-query`
+<br/><br/>
 
 #### Career
-- searchright ai · 인재 채용 SaaS 프론트엔드 개발 (2025.02 - 2025.04)
-- searchright ai · [랜딩 페이지](https://searchright.net/) 프론트엔드 개발 (2024.09 - 2024.11)
+- 서치라이트 · 인재 채용 saas 프론트엔드 개발 (2025.02 - 2025.04)
+- 서치라이트 · [랜딩 페이지](https://searchright.net/) 프론트엔드 개발 (2024.09 - 2024.11)
 
 #### Education
 - 명지대학교 · 응용소프트웨어전공 (2020.03 - 2024.02)
