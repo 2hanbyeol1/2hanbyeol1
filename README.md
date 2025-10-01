@@ -15,5 +15,5 @@
 - 오픈소스 컨트리뷰션 아카데미 · git 활용 및 react (2023.07 ~ 2023.08)
 
 #### Project
-- [coupong](https://coupong.vercel.app/) · 쿠폰 공유 관리 서비스 '쿠퐁' 프론트엔드 개발 (24.04.08 ~ 24.05.19) [[깃허브](https://github.com/2hanbyeol1/coupong)]
+- [coupong](https://coupong.vercel.app/) · 쿠폰 공유 관리 서비스 '쿠퐁' 프론트엔드 개발 (25.08.08 ~ 진행중) [[깃허브](https://github.com/2hanbyeol1/coupong)][[링크](https://coupong.vercel.app/)]
 - oosie · 개인 맞춤형 건강 관리 대시보드 '오씨' 프론트엔드 개발 (24.04.08 ~ 24.05.19) [[깃허브](https://github.com/2hanbyeol1/oosie)][[시연영상](https://www.youtube.com/watch?v=ZWEfVp9mXqM)]
