@@ -17,7 +17,7 @@
 
 ### Project
 - 멍로드 · 반려인 산책 모임 커뮤니티 (25.09 - 25.11) [[깃허브](https://github.com/Meong-Road/FE)]<br/>
-- 식탁일기 · 레시피 공유 커뮤니티 (25.06 - 26.02) [[깃허브](https://github.com/TableLog/tablog-front)][[링크](https://tablelog.n-e.kr/)]<br/>
+- 식탁일기 · 레시피 공유 커뮤니티 (25.06 - 26.02) [[깃허브](https://github.com/TableLog/tablog-front)]<br/>
 - oosie · 개인 맞춤형 건강 관리 대시보드 (24.04 - 24.05) [[깃허브](https://github.com/2hanbyeol1/oosie)][[시연영상](https://www.youtube.com/watch?v=ZWEfVp9mXqM)]<br/>
 - coupong · 그룹별 쿠폰 공유 및 관리 서비스 (25.08 - 25.08) [[깃허브](https://github.com/2hanbyeol1/coupong)][[링크](https://coupong.vercel.app/)]<br/>
 - b___log · 개인 기술 블로그 (26.01 - 26.02) [[깃허브](https://github.com/2hanbyeol1/b___log)][[링크](https://b---log.vercel.app/)]<br/><br/>
